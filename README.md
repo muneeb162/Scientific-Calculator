@@ -9,7 +9,7 @@ Set Up Git:
 <li>git config --global user.email youremail@domain.com</li>
 </ul>
 <h1>How to clonned my project on your PC and start working on it and How  to upload it to my Repositry</br></h1>
-<a target="_blank" href="https://ibb.co/zVQmfWB"><img src="https://i.ibb.co/VYJLB0z/1.png" alt="1" border="0"></a><br/><b><i>Follow the Picture Shown Step for Coping (url)</i></b><br />
+<img src="https://i.ibb.co/wwC3Tst/Screenshot-2021-05-09-015032.jpg" alt="Screenshot-2021-05-09-015032" border="0"><br/><b><i>Follow the Picture Shown Step for Coping (url)</i></b><br />
 <h3>Step-1</h3><b>Clonning Command::</b> git clone (url paste here)<hr>
 <h3>Step-2</h3><i>Creating New Branch of your own</i></br><b>Branch Command::</b> git checkout -b "BRANCH NAME"<hr>
 <h3>Step-3</h3><i>If you feel your work on project is completed lets add your work on your own branch</i></br><b>Files Adding Command::</b> git add (file names) "add passing file name" and (git add .) uses to add all files<hr>
